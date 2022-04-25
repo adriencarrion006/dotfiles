@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adriencarrionà006@gmail.com
+	name = Adrien CARRION
